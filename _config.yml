@@ -1,5 +1,5 @@
 # Site settings
-course_name: 
+course_name: Darkwick Academy
 course_description: "The whisper of the new moon shall lead the champion to the academy on the solitary isle. So long as the champion resides there, the world shall be sheltered from profound tragedy."
 course_semester: "Sponsored by the Anomalous Investigation Institute"
 
@@ -9,7 +9,7 @@ motto: To face the unknown and the arcane without fear, and preserve world peace
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://darkwickacademy.com" # the base hostname & protocol for your site
 
-schoolname: "Darkwick Academy"
+schoolname: ""
 schoolurl: "https://darkwickacademy.com"
 twitter_username: username 
 

@@ -6,8 +6,8 @@ professors:
     profile_pic: /_images/pp/dante.webp
   - name: Professor Moby
     profile_pic: /_images/pp/moby.webp
-  - name: Professor Nicholas
-    profile_pic: /_images/pp/nicholas.webp
+  - name: Professor Nicolas
+    profile_pic: /_images/pp/nicolas.webp
 
 other_staff:
   - name: Chancellor Cornelius

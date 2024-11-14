@@ -6,16 +6,12 @@ professors:
     profile_pic: /_images/pp/dante.webp
   - name: Professor Moby
     profile_pic: /_images/pp/moby.webp
+  - name: Professor Nicholas
+    profile_pic: /_images/pp/nicholas.webp
 
 other_staff:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+  - name: Chancellor Cornelius
+    profile_pic: /_images/pp/cornelius.jpg
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
-
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  - name: Benkei
+    profile_pic: /_images/pp/Benkei.jpg

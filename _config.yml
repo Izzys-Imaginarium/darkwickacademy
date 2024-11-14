@@ -11,7 +11,7 @@ url: "https://darkwickacademy.com" # the base hostname & protocol for your site
 
 schoolname: ""
 schoolurl: "https://darkwickacademy.com"
-twitter_username: username 
+#twitter_username: username 
 
 address: |
     Darkwick Academy

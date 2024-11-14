@@ -6,14 +6,14 @@ course_semester: "Fall 1998"
 baseurl: "/darkwickacademy" # the subpath of your site, e.g. /blog/
 url: "http://izzys-imaginarium.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
+schoolname: "Darkwick Academy"
 schoolurl: "https://darkwickacademy.com"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Darkwick Academy
+    Tokyo Bay
+    Japan
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X

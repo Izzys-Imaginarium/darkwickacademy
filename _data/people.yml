@@ -1,9 +1,9 @@
 professors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/pp/dumbledore.jpg
+  - name: Professor Hyde
+    profile_pic: /_images/pp/hyde.webp
     webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+  - name: Professor Dante
+    profile_pic: /_images/pp/dante.webp
   - name: Professor Moby
     profile_pic: /_images/pp/moby.webp
 

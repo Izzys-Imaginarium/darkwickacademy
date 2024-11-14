@@ -1,4 +1,4 @@
-instructors:
+professors:
   - name: Albus Dumbledore
     profile_pic: /_images/pp/dumbledore.jpg
     webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
@@ -7,7 +7,7 @@ instructors:
   - name: Professor Moby
     profile_pic: /_images/pp/moby.webp
 
-teaching_assistants:
+other_staff:
   - name: Harry Potter
     profile_pic: /_images/pp/potter.jpg
     webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)

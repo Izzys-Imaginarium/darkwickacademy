@@ -2,7 +2,7 @@
 type: lecture
 date: 2024-09-16T8:00:00+4:30
 title: Anomalous Law
-tldr: "Lead by Professor Moby"
+Teacher: "Professor Moby"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     - url: /static_files/presentations/lec.zip

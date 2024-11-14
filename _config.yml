@@ -7,7 +7,7 @@ baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blo
 url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
+schoolurl: "https://darkwickacademy.com"
 twitter_username: username 
 
 address: |

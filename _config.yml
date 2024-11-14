@@ -4,7 +4,7 @@ course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na
 course_semester: "Fall 1998"
 
 baseurl: "/darkwickacademy" # the subpath of your site, e.g. /blog/
-url: "https://izzys-imaginarium.github.io/" # the base hostname & protocol for your site
+url: "https://github.com/Izzys-Imaginarium/" # the base hostname & protocol for your site
 
 schoolname: "Darkwick Academy"
 schoolurl: "https://darkwickacademy.com"

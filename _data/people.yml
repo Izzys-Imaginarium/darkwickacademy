@@ -1,17 +1,22 @@
 professors:
   - name: Professor Hyde
     profile_pic: /_images/pp/hyde.webp
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+    webpage: https://tokyodebunker.fandom.com/wiki/Hyde
   - name: Professor Dante
     profile_pic: /_images/pp/dante.webp
+    webpage: https://tokyodebunker.fandom.com/wiki/Dante
   - name: Professor Moby
     profile_pic: /_images/pp/moby.webp
+    webpage: https://tokyodebunker.fandom.com/wiki/Moby
   - name: Professor Nicolas
     profile_pic: /_images/pp/nicolas.webp
+    webpage: https://tokyodebunker.fandom.com/wiki/Nicolas
 
 other_staff:
   - name: Chancellor Cornelius
     profile_pic: /_images/pp/cornelius.webp
+    webpage: https://tokyodebunker.fandom.com/wiki/Cornelius
 
   - name: Benkei
     profile_pic: /_images/pp/benkei.webp
+    webpage: https://tokyodebunker.fandom.com/wiki/Benkei

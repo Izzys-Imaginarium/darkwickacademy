@@ -4,6 +4,8 @@ instructors:
     webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
   - name: Minerva McGonagall
     profile_pic: /_images/pp/mcgonagall.jpg
+  - name: Professor Moby
+    profile_pic: /_images/pp/moby.webp
 
 teaching_assistants:
   - name: Harry Potter
